@@ -1,6 +1,8 @@
 ### Packages needed to run program
 
-## pip install: 
+## pip install:
+jupyter,
+python,
 pandas,
 audiolazy,
 (matplotlib maybe),
